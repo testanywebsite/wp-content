@@ -118,6 +118,9 @@
 				<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 			</nav><!-- #access -->
 	</header><!-- #branding -->
+    <div>
+    <p>Just making some changes to check in Github</p>
+    </div>
 
 
 	<div id="main">
